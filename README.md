@@ -18,6 +18,8 @@
 
 Об истории появления схемы писал в [статье на Хабре](https://habr.com/ru/companies/pt/articles/800865/).
 
+Детально про рынок труда в информационной безопасности в России в 2024–2027 гг. можно прочитать по [ссылке](https://www.ptsecurity.com/ru-ru/research/analytics/rynok-truda-v-informaczionnoj-bezopasnosti-v-rossii-v-2024-2027-gg-prognozy-problemy-i-perspektivy/).
+
 На схеме показаны восемь направлений развития специалиста по кибербезопасности:
 
 1. Безопасность объектов критической информационной инфраструктуры
