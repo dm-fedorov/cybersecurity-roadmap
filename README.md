@@ -1,5 +1,7 @@
 # Схема карьерных треков в кибербезопасности
 
+[Энциклопедия ролей кибербезопасности](https://cybersecurity-roadmap.ru/book/)
+
 На [интерактивной схеме](https://cybersecurity-roadmap.ru/) и [PDF-версии](https://cybersecurity-roadmap.ru/cybersecurity_roadmap.pdf) показаны рабочие роли (трудовые функции) в области кибербезопасности, сформированные на основе анализа текущих вакансий.
 
 <img src="cybersecurity-roadmap.jpg" alt="Схема рабочих ролей в кибербезе" width="400"/>
