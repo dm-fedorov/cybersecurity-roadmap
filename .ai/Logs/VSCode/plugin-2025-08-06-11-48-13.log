@@ -1,6 +1,0 @@
-[8/6/2025, 11:48:13 AM] info: Logging was started to file.
-[8/6/2025, 11:48:13 AM] info: Start application inspector initialization
-[8/6/2025, 11:48:13 AM] info: Hide developer mode UI
-[8/6/2025, 11:48:13 AM] info: Infrastructure Configurations: {"port":8000,"infrastructureAssemblyFolderPath":"C:\\Users\\dfedorov\\AppData\\Local\\Application Inspector Analyzer","applicationResourcesFolderPath":"C:\\Users\\dfedorov\\AppData\\Local\\Application Inspector Analyzer","scanTargetFolderPath":"c:\\Users\\dfedorov\\Documents\\GitHub\\Job_Description_Library","isDebugging":false,"logLevel":{"i2_1":"Error","j2_1":5,"type":5,"key":"Settings.LogLevel.Error.Text"},"logDir":"c:\\Users\\dfedorov\\Documents\\GitHub\\Job_Description_Library\\.ai\\Logs\\Infrastructure\\2025-08-06-11-48-13","tipsFoundNotificationThreshold":15,"similarIssuesFoundNotificationThreshold":15,"applicationLocalDataFolderPath":"c:\\Users\\dfedorov\\Documents\\GitHub\\Job_Description_Library\\.ai"}
-[8/6/2025, 11:48:13 AM] info: Start infrastructure initialization
-[8/6/2025, 11:48:14 AM] info: Infrastructure was started
